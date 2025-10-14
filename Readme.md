@@ -1,6 +1,6 @@
 <!-- 🌟 Modern & Visually Appealing GitHub Profile README 🌟 -->
 
-<h1 align="center">Hi 👋, I'm <span style="color:#4F8CFF;">Kartik</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#4F8CFF;">Moksh</span></h1>
 <h3 align="center">🚀 Aspiring Software Engineer | Crafting ideas into clean, scalable code</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kartik-kumar-pandey&label=Profile%20Views&color=4F8CFF&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=mokshxp&label=Profile%20Views&color=4F8CFF&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
@@ -32,13 +32,13 @@
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/kartik-kumar-pandey-bhka2004/" target="_blank">
+  <a href="https://www.linkedin.com/in/moksh-gupta-8b7588279/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:kartikpandeybhka2004@gmail.com">
+  <a href="mailto:gmoksh985@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/kartik-kumar-pandey">
+  <a href="https://github.com/mokshxp">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -58,23 +58,18 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartik-kumar-pandey&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kartik-kumar-pandey&theme=tokyonight&hide_border=true" height="150" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mokshxp&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mokshxp&theme=tokyonight&hide_border=true" height="150" alt="streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-kumar-pandey&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokshxp&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages"/>
 </p>
 
 ---
 
-### 🧩 Featured Projects
-<p align="center">
-  <a href="https://github.com/kartik-kumar-pandey/File-Stashify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kartik-kumar-pandey&repo=File-Stashify&theme=tokyonight&hide_border=true" alt="File Stashify"/>
-  </a>
-</p>
 
----
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF"/>
@@ -91,7 +86,7 @@
   - 🌱 Learning: <b>Next.js, Cloud Functions</b><br/>
   - 👯 Collaborating on: <b>React, Node.js, Supabase, Open Source</b><br/>
   - 💬 Ask me about: <b>React, Node.js, MongoDB, Supabase</b><br/>
-  - 📫 Reach me at: <a href="mailto:kartikpandeybhka2004@gmail.com">kartikpandeybhka2004@gmail.com</a><br/>
+  - 📫 Reach me at: <a href="mailto:gmoksh985@gmail.com">kartikpandeybhka2004@gmail.com</a><br/>
   - ⚡ Fun fact: <i>I love building things that simplify life!</i>
 </details>
 
@@ -99,5 +94,5 @@
 
 ### 🌐 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kartik-kumar-pandey&theme=tokyo-night" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mokshxp&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
