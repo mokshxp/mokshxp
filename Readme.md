@@ -1,98 +1,170 @@
-<!-- 🌟 Modern & Visually Appealing GitHub Profile README 🌟 -->
+<!-- ============================================================
+     MOKSH GUPTA — GitHub Profile README
+     ============================================================ -->
 
-<h1 align="center">Hi 👋, I'm <span style="color:#4F8CFF;">Moksh</span></h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Crafting ideas into clean, scalable code</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=4F8CFF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Open+Source+Contributor;React+%7C+Node+%7C+Supabase+%7C+MongoDB;Building+for+a+better+future!" alt="Typing Animation" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Moksh%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20AI%20%7C%20Full%20Stack&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mokshxp&label=Profile%20Views&color=4F8CFF&style=flat-square" alt="Profile views"/>
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=7EB3FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+Full+Stack+Apps+%F0%9F%A4%96;Competitive+Programmer+%7C+100%2B+LeetCode+Solves+%F0%9F%8E%AF;React+%E2%80%A2+Node.js+%E2%80%A2+FastAPI+%E2%80%A2+PostgreSQL;Turning+ideas+into+scalable+products+%F0%9F%9A%80" alt="Typing SVG" />
 
-### 🎯 Mission
-<p align="center">
-  <i>“To build reliable, intuitive, and future-ready software that empowers people.”</i>
-</p>
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=mokshxp&label=Profile+Views&color=7EB3FF&style=flat-square&labelColor=0d1117" alt="Profile views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/mokshxp?label=Followers&style=flat-square&color=7EB3FF&labelColor=0d1117" alt="Followers"/>
 
-### 💡 What I Do
-<p align="center">
-  <b>🧠 Design & build full-stack web applications</b><br/>
-  <b>🌍 Contribute to open source</b><br/>
-  <b>⚙️ Learn & explore new technologies</b><br/>
-  <b>🤝 Collaborate and share knowledge</b>
-</p>
+</div>
 
 ---
 
-### 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/moksh-gupta-8b7588279/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gmoksh985@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/mokshxp">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+## 🧬 About Me
+
+```ts
+const moksh = {
+  name:       "Moksh Gupta",
+  role:       "CS Undergraduate (Artificial Intelligence)",
+  location:   "Kanpur, India 🇮🇳",
+  focus:      ["Full Stack Development", "AI Engineering", "Competitive Programming"],
+  currently:  "Building AI-driven web apps that solve real-world problems",
+  learning:   ["Next.js", "Cloud Functions", "LLM Pipelines"],
+  askMeAbout: ["React", "Node.js", "FastAPI", "PostgreSQL", "NLP"],
+  funFact:    "I debug code at 2 AM and somehow it always works 🌙",
+};
+```
 
 ---
 
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongodb,supabase,git" />
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <b>HTML5</b> • <b>CSS3</b> • <b>JavaScript</b> • <b>React</b> • <b>Node.js</b> • <b>MongoDB</b> • <b>Supabase</b> • <b>Git</b>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Interview Platform — *Skilio*
+> Full-stack platform simulating real technical interviews
+
+- Dynamic question generation with in-browser code editor
+- AI Copilot that analyzes resumes & tailors prep strategy
+- Supports DSA, System Design & Behavioral modes
+- Real-time evaluation with adaptive difficulty
+
+**Stack:** `React` `Node.js` `AI APIs` `Vercel`
+
+</td>
+<td width="50%">
+
+### 💰 AI CA for Freelancers
+> AI-powered tax assistant for freelance income management
+
+- Parses bank SMS via Regex + NLP to track income
+- Computes Income Tax, GST & Advance Tax in real-time
+- Financial dashboard with compliance alerts
+- AI query engine for tax-related questions
+
+**Stack:** `FastAPI` `PostgreSQL` `NLP` `React`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokshxp&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mokshxp&theme=tokyonight&hide_border=true" height="150" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokshxp&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages"/>
-</p>
+## ⚙️ Tech Stack
+
+<div align="center">
+
+### 🖥️ Frontend
+<img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,tailwind&theme=dark" />
+
+### 🔧 Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,python,postgresql,mongodb,supabase&theme=dark" />
+
+### 🛠️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux&theme=dark" />
+
+### 🧠 AI / ML
+![NLP](https://img.shields.io/badge/NLP-0f0c29?style=for-the-badge&logoColor=7EB3FF)
+![Regex](https://img.shields.io/badge/Regex-302b63?style=for-the-badge&logoColor=7EB3FF)
+![AI APIs](https://img.shields.io/badge/AI%20APIs-24243e?style=for-the-badge&logoColor=7EB3FF)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-0f0c29?style=for-the-badge&logoColor=7EB3FF)
+
+</div>
 
 ---
 
+## 🏆 Achievements
 
+<div align="center">
 
+| 🎯 Platform | 🏅 Achievement |
+|:-----------:|:-------------:|
+| HackerRank | ⭐⭐⭐⭐ 4-Star Problem Solving |
+| LeetCode | 100+ Problems Solved |
+| Competitive Programming | Active Participant |
 
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF"/>
-</p>
+---
 
-<p align="center"><i>"Code is like humor — when you have to explain it, it’s bad."</i></p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mokshxp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EB3FF&icon_color=7EB3FF&text_color=c9d1d9" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mokshxp&theme=tokyonight&hide_border=true&background=0d1117&stroke=7EB3FF&ring=7EB3FF&fire=ff6b6b&currStreakLabel=7EB3FF" height="160" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokshxp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EB3FF&text_color=c9d1d9" height="150" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mokshxp&theme=tokyo-night&bg_color=0d1117&color=7EB3FF&line=7EB3FF&point=ffffff&hide_border=true" width="95%" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/moksh-gupta-8b7588279/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:gmoksh985@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/mokshxp">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <details>
-  <summary>📈 <b>More About Me</b></summary>
-  <br/>
-  - 🔭 Currently working on: <b>File Stashify</b> and other projects<br/>
-  - 🌱 Learning: <b>Next.js, Cloud Functions</b><br/>
-  - 👯 Collaborating on: <b>React, Node.js, Supabase, Open Source</b><br/>
-  - 💬 Ask me about: <b>React, Node.js, MongoDB, Supabase</b><br/>
-  - 📫 Reach me at: <a href="mailto:gmoksh985@gmail.com">kartikpandeybhka2004@gmail.com</a><br/>
-  - ⚡ Fun fact: <i>I love building things that simplify life!</i>
+<summary>📖 <b>More About Me</b></summary>
+<br/>
+
+- 🔭 **Currently building:** AI Interview Platform (Skilio) & AI CA for Freelancers
+- 🌱 **Learning:** Next.js, Cloud Functions, LLM Pipelines
+- 👯 **Open to collaborate on:** Full Stack, AI/ML integrations, Open Source
+- 💬 **Ask me about:** React, Node.js, FastAPI, PostgreSQL, NLP, Competitive Programming
+- 📫 **Reach me at:** gmoksh985@gmail.com
+- ⚡ **Fun fact:** Dynamic programming solutions feel like magic until you understand the recurrence 🧩
+
 </details>
 
 ---
 
-### 🌐 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mokshxp&theme=tokyo-night" alt="GitHub Activity Graph"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+*"First, solve the problem. Then, write the code." — John Johnson*
+
+</div>
