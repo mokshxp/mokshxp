@@ -54,19 +54,6 @@ const moksh = {
 **Stack:** `React` `Node.js` `AI APIs` `Vercel`
 
 </td>
-<td width="50%">
-
-### 💰 AI CA for Freelancers
-> AI-powered tax assistant for freelance income management
-
-- Parses bank SMS via Regex + NLP to track income
-- Computes Income Tax, GST & Advance Tax in real-time
-- Financial dashboard with compliance alerts
-- AI query engine for tax-related questions
-
-**Stack:** `FastAPI` `PostgreSQL` `NLP` `React`
-
-</td>
 </tr>
 </table>
 
